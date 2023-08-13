@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **boodebeno@gmail.conm**
 
-- 📄 Know about my experiences [Resume](https://its0beno.github.io/Protofilo/img/Abdurahman%20Jafer.pdf)
+- 📄 Know about my experiences [Resume](https://cvdesignr.com/p/64afab3e59ac4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
