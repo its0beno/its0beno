@@ -1,8 +1,8 @@
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **E-learning System**
+- 🔭 I’m currently working on **Stock Managment System**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m  **Backend Developer**
 
 - 📫 How to reach me **boodebeno@gmail.conm**
 
