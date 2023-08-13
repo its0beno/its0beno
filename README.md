@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **boodebeno@gmail.conm**
 
-- 📄 Know about my experiences <a href="https://cvdesignr.com/p/64afab3e59ac4" target="_blank">Resume</a> 
+- 📄 Know about my experiences <a href="https://cvdesignr.com/p/64afab3e59ac4" target="_blank" >Resume</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
