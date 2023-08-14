@@ -6,9 +6,6 @@
 
 - 📄 Know about my experiences <a href="https://cvdesignr.com/p/64afab3e59ac4" target="_blank" >Resume</a> 
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=its0beno&show_icons=true&theme=dark#gh-dark-mode-only)
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abdurahman-shamil-aa8a54182/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdurahman shamil" height="30" width="40" /></a>
