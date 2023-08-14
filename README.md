@@ -1,9 +1,11 @@
 <h3 align="center">Passionate Full Stack Developer</h3>
 
-- 🌱 Specializing in backend development
-- 📫 Reach me at [email](mailto:boodebeno@gmail.com)
-- 📄 [Resume](https://cvdesignr.com/p/64afab3e59ac4)
-- 
+- 🌱 Specializing in  **Backend Developer**
+
+- 📫 How to reach me **[Email](mailto:boodebeno@gmail.com)**
+
+- 📄 Know about my experiences <a href="https://cvdesignr.com/p/64afab3e59ac4" target="_blank" >Resume</a> 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdurahman shamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdurahman shamil" height="30" width="40" /></a>
