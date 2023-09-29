@@ -31,5 +31,3 @@
 ![Git](https://img.shields.io/badge/-Git-111111?style=flat&logo=git&logoColor=F05032)
 ![Linux](https://img.shields.io/badge/-Linux-111111?style=flat&logo=linux&logoColor=FCC624)
 
-#GitHub Stats
-<p align="center"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=its0beno&hide_border=true&count_private=true&show_icons=true&theme=dark" alt="codernakul" align = "center"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=its0beno&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dark" alt="codernakul" align = "center"/></p>
