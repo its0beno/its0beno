@@ -22,7 +22,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-111111?style=flat&logo=MySQL)
 
 
-<h2>Some of the technologies I have worked with</h2>
+<h2>Some of the technologies I work with</h2>
 
 ![Django](https://img.shields.io/badge/-Django-111111?style=flat&logo=django)
 ![ReactJS](https://img.shields.io/badge/-React-111111?style=flat&logo=React)
