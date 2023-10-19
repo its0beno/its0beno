@@ -13,7 +13,7 @@
 
 
 
-<h2>Languages I have used</h2>
+<h2>Languages I have use</h2>
 
 ![Python](https://img.shields.io/badge/-Python-111111?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-111111?style=flat&logo=javascript)
