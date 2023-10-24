@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&duration=3000&pause=500&width=435&lines=I+am+a+Full-Stack+Developer;A+Django+Developer;Nestjs+Developer;Express+JS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&duration=3000&pause=500&width=435&lines=I+am+a+Backend+Developer;A+Django+Developer;Nestjs+Developer;Express+JS)](https://git.io/typing-svg)
 
 - 🌱 Specializing in  **Backend Developer**
 
