@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **[Email](mailto:boodebeno@gmail.com)**
 
-- 📄 Know about my experiences <a href="https://cvdesignr.com/p/64afab3e59ac4" target="_blank" >Resume</a> 
+- 📄 Check out my Protofilo <a href="https://its0beno.com/" target="_blank" >Protofilo</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
